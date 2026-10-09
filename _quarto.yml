@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: favicon.png
+  navbar:
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: groupleader.qmd
+        text: Group Leader
+      - href: team.qmd
+        text: Team
+      - href: publications.qmd
+        text: Publications
+      - href: news.qmd
+        text: News
+      - href: openpositions.qmd
+        text: Open Positions
+      - href: gallery.qmd
+        text: Gallery
+      - href: contact.qmd
+        text: Contact
+        
+  page-footer:
+    center: "© 2026 Stress Biology Lab, Central University of Kerala. All rights reserved."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full

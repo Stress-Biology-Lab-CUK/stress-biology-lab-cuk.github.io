@@ -1,0 +1,150 @@
+---
+title: "Selected Publications"
+---
+
+<div style="max-width:1000px; margin:auto; font-size:16px; line-height:1.7;">
+
+<!-- ===== 2026 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2026</h3>
+
+<p>
+Rana, A., Pandey, A.K. & <strong>Kandoth, P.K.</strong> (2026). 
+From Stress to Development: Unfolded Protein Response as a Driver of Plant Life. 
+<em>Plant Molecular Biology Reporter</em>. 
+<a href="https://doi.org/10.1007/s11105-026-01716-4" target="_blank">DOI</a>
+</p>
+
+<p>
+Rana, A., Kaur, N., Pandey, A.K. & <strong>Kandoth, P.K.</strong> (2026). 
+Transcriptome analysis coupled with VIGS delineates UPR in tomato. 
+<em>Molecular Genetics and Genomics</em>. 
+<a href="https://doi.org/10.1007/s00438-026-02400-8" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2025 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2025</h3>
+
+<p>
+Verma, A., Kaur, L., & <strong>Kandoth, P.K.</strong> (2025). 
+Hairy root transformation for genome editing in <em>Lathyrus sativus</em>. 
+<em>Current Protocols</em>. 
+<a href="https://doi.org/10.1002/cpz1.70256" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2024 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2024</h3>
+
+<p>
+Korasick, D. A., et al. & <strong>Kandoth, P. K.</strong> (2024). 
+Structural and functional analysis of SHMT8 variants. 
+<em>The FEBS Journal</em>. 
+<a href="https://doi.org/10.1111/febs.16971" target="_blank">DOI</a>
+</p>
+
+<p>
+Verma, A., et al. & <strong>Kandoth, P. K.</strong> (2024). 
+Genome editing of oxalyl-CoA synthetase in <em>Lathyrus sativus</em>. 
+<span style="background:#ffe6e6; padding:3px 6px; border-radius:5px;">
+<strong>Plant Cell Reports</strong>
+</span>. 
+<a href="https://doi.org/10.1007/s00299-024-03368-8" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2023 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2023</h3>
+
+<p>
+Rajarammohan, S., et al. & <strong>Kandoth, P. K.</strong> (2023). 
+Genome sequencing of <em>Lathyrus sativus</em>. 
+<em>Scientific Data</em>. 
+<a href="https://doi.org/10.1038/s41597-022-01903-4" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2022 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2022</h3>
+
+<p>
+Verma, A., et al. & <strong>Kandoth, P. K.</strong> (2022). 
+β-ODAP content correlates with stress gene expression. 
+<em>Physiologia Plantarum</em>. 
+<a href="https://doi.org/10.1111/ppl.13616" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2021 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2021</h3>
+
+<p>
+Kaur, N. & <strong>Kandoth, P. K.</strong> (2021). 
+bZIP60 mRNA splicing under ER stress. 
+<em>Plant Physiology and Biochemistry</em>. 
+<a href="https://doi.org/10.1016/j.plaphy.2021.01.033" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2020 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2020</h3>
+
+<p>
+Korasick, D. A., et al. & <strong>Kandoth, P. K.</strong> (2020). 
+SHMT8 in nematode resistance. 
+<em>Journal of Biological Chemistry</em>. 
+<a href="https://doi.org/10.1074/jbc.RA119.012256" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2017 (HIGHLIGHT) ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2017</h3>
+
+<p>
+Liu, S., et al. & <strong>Kandoth, P. K.</strong> (2017). 
+Soybean resistance gene mechanism. 
+<span style="background:#ffd700; padding:3px 6px; border-radius:5px;">
+<strong>Nature Communications</strong>
+</span>. 
+<a href="https://doi.org/10.1038/ncomms14822" target="_blank">DOI</a>
+</p>
+
+<p>
+<strong>Kandoth, P. K.</strong>, et al. (2017). 
+Role of SHMT in nematode resistance. 
+<span style="background:#e6f2ff; padding:3px 6px; border-radius:5px;">
+<strong>Plant Physiology</strong>
+</span>. 
+<a href="https://doi.org/10.1104/pp.17.00553" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2012 (TOP HIGHLIGHT) ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2012</h3>
+
+<p>
+Liu, S., <strong>Kandoth, P. K.</strong>, et al. (2012). 
+A soybean cyst nematode resistance gene. 
+<span style="background:#ffcccc; padding:4px 8px; border-radius:6px; font-weight:600;">
+🌟 Nature
+</span>. 
+<a href="https://doi.org/10.1038/nature11651" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2011 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2011</h3>
+
+<p>
+<strong>Kandoth, P. K.</strong>, et al. (2011). 
+Rhg1 locus in soybean resistance. 
+<span style="background:#e6f2ff; padding:3px 6px; border-radius:5px;">
+<strong>Plant Physiology</strong>
+</span>. 
+<a href="https://doi.org/10.1104/pp.110.167536" target="_blank">DOI</a>
+</p>
+
+<!-- ===== 2007 ===== -->
+<h3 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e;">2007</h3>
+
+<p>
+<strong>Kandoth, P. K.</strong>, et al. (2007). 
+MAPK defense signaling in tomato. 
+<span style="background:#fff3cd; padding:3px 6px; border-radius:5px;">
+<strong>PNAS</strong>
+</span>. 
+<a href="https://doi.org/10.1073/pnas.0700344104" target="_blank">DOI</a>
+</p>
+
+</div>

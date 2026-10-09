@@ -1,0 +1,189 @@
+---
+title: "Team"
+---
+
+## PhD Students
+
+<div class="member-card" style="display:flex; gap:25px; margin-bottom:30px; align-items:flex-start;">
+
+<img src="sreelekha.jpg" style="width:150px; height:150px; object-fit:cover; border-radius:10px;">
+
+<div>
+<h4 style="margin:0; color:#0b3d2e;">Sreelekha A</h4>
+<p style="margin:5px 0;"><strong>CSIR SRF</strong></p>
+
+<p style="text-align:justify; margin:5px 0;">
+She completed her MSc in Botany from Manglore University and now she is Working ER stress–induced programmed cell death (PCD) pathways in plants
+</p>
+
+<div style="margin-top:8px; font-size:14px;">
+📧 <a href="sreelekha.2301007002@cukerala.ac.in" style="color:#0b3d2e;">
+sreelekha.2301007002@cukerala.ac.in
+</a>
+</div>
+
+</div>
+</div>
+
+<div class="member-card" style="display:flex; gap:25px; margin-bottom:30px; align-items:flex-start;">
+
+<img src="gayathri.jpg" style="width:150px; height:150px; object-fit:cover; border-radius:10px;">
+
+<div>
+<h4 style="margin:0; color:#0b3d2e;">Gayathri V</h4>
+<p style="margin:5px 0;"><strong>UGC SRF</strong></p>
+
+<p style="text-align:justify; margin:5px 0;">
+She completed her MSc in Botany from the University of Kerala and she is interested in understanding ER quality control in plants
+</p>
+
+<div style="margin-top:8px; font-size:14px;">
+📧 <a href="mailto:gayathrivenugopal1999@gmail.com" style="color:#0b3d2e;">
+gayathrivenugopal1999@gmail.com
+</a>
+</div>
+
+</div>
+</div>
+
+<div class="member-card" style="display:flex; gap:25px; margin-bottom:30px; align-items:flex-start;">
+
+<img src="sruthi.jpg" style="width:150px; height:150px; object-fit:cover; border-radius:10px;">
+
+<div>
+<h4 style="margin:0; color:#0b3d2e;">Sruthi C E</h4>
+<p style="margin:5px 0;"><strong>CSIR JRF</strong></p>
+
+<p style="text-align:justify; margin:5px 0;">
+She completed her MSc in Botany from Mahatma Gandhi University, Kerala, and she is currently finalizing her research interests in ER stress biology
+</p>
+
+<div style="margin-top:8px; font-size:14px;">
+📧 <a href="mailto:sruthice06@gmail.com" style="color:#0b3d2e;">
+sruthice06@gmail.com
+</a>
+</div>
+
+</div>
+</div>
+
+<div class="member-card" style="display:flex; gap:25px; margin-bottom:30px; align-items:flex-start;">
+
+<img src="arun.jpg" style="width:150px; height:150px; object-fit:cover; border-radius:10px;">
+
+<div>
+<h4 style="margin:0; color:#0b3d2e;">Arun Kizhkkepurakkal</h4>
+<p style="margin:5px 0;"><strong>UGC JRF</strong></p>
+
+<p style="text-align:justify; margin:5px 0;">
+He completed hid MSc in Botany from Central University of Kerala, and he is currently finalizing his research interests in ER stress biology
+</p>
+
+<div style="margin-top:8px; font-size:14px;">
+📧 <a href="mailto:arunkizhakkepurakkal@gmail.com" style="color:#0b3d2e;">
+arunkizhakkepurakkal@gmail.com
+</a>
+</div>
+
+</div>
+</div>
+
+<hr style="margin:40px 0; border:0; height:1.5px; background:#ccc; width:100%;">
+
+## Junior Reasech Fellow
+
+<div class="member-card" style="display:flex; gap:25px; margin-bottom:30px; align-items:flex-start;">
+
+<img src="vivek.jpg" style="width:150px; height:150px; object-fit:cover; border-radius:10px;">
+
+<div>
+<h4 style="margin:0; color:#0b3d2e;">Vivek Adot</h4>
+<p style="margin:5px 0;"><strong>JRF</strong></p>
+
+<p style="text-align:justify; margin:5px 0;">
+He completed his MSc in Botany from the Central University of Kerala and he is currently working on a project on ER stress–induced programmed cell death (PCD) pathways in plants
+</p>
+
+<div style="margin-top:8px; font-size:14px;">
+📧 <a href="mailto:vivekadot17@gmail.com" style="color:#0b3d2e;">
+vivekadot17@gmail.com
+</a>
+</div>
+
+</div>
+</div>
+
+<hr style="margin:40px 0; border:0; height:1.5px; background:#ccc; width:100%;">
+
+## Dissertation Students (2026-2027)
+
+<div style="display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap;">
+
+<div class="member-card" style="width:18%; text-align:center; transition:transform 0.3s ease, box-shadow 0.3s ease; padding:10px; border-radius:10px;">
+<img src="akshata.jpg" style="width:140px; height:140px; object-fit:cover; border-radius:10px;"><br>
+<strong>Akshata</strong><br>
+<em>Master Student</em>
+</div>
+
+<div class="member-card" style="width:18%; text-align:center; transition:transform 0.3s ease, box-shadow 0.3s ease; padding:10px; border-radius:10px;">
+<img src="aditya.jpg" style="width:140px; height:140px; object-fit:cover; border-radius:10px;"><br>
+<strong>Aditya S</strong><br>
+<em>Master Student</em>
+</div>
+
+<div class="member-card" style="width:18%; text-align:center; transition:transform 0.3s ease, box-shadow 0.3s ease; padding:10px; border-radius:10px;">
+<img src="arundhathi.jpg" style="width:140px; height:140px; object-fit:cover; border-radius:10px;"><br>
+<strong>Arundhathi S</strong><br>
+<em>Master Student</em>
+</div>
+
+<div class="member-card" style="width:18%; text-align:center; transition:transform 0.3s ease, box-shadow 0.3s ease; padding:10px; border-radius:10px;">
+<img src="skanda.jpg" style="width:140px; height:140px; object-fit:cover; border-radius:10px;"><br>
+<strong>Skanda H</strong><br>
+<em>Master Student</em>
+</div>
+
+<div class="member-card" style="width:18%; text-align:center; transition:transform 0.3s ease, box-shadow 0.3s ease; padding:10px; border-radius:10px;">
+<img src="ananya suresh.jpg" style="width:140px; height:140px; object-fit:cover; border-radius:10px;"><br>
+<strong>Ananya Suresh</strong><br>
+<em>Master Student</em>
+</div>
+
+</div>
+
+## Alumni
+
+### PhD Students
+- **Dr. Ankita Rana**  (From BRIC-NABI)
+- **Dr. **  (From BRIC-NABI)
+- **Dr. **  (From BRIC-NABI)
+
+### Master's Dissertation Students
+
+<div class="masters-grid">
+
+  <div class="master-student"><strong>Ayisha</strong><span>(2025–26)</span></div>
+  <div class="master-student"><strong>Bhavya R</strong><span>(2025–26)</span></div>
+  <div class="master-student"><strong>Devendra Dahake</strong><span>(2025–26)</span></div>
+  <div class="master-student"><strong>Pavani M</strong><span>(2025–26)</span></div>
+  <div class="master-student"><strong>Spoorthi M E</strong><span>(2025–26)</span></div>
+  <div class="master-student"><strong>Aiswarya K</strong><span>(2024–25)</span></div>
+
+  <div class="master-student"><strong>Arun Kizhkkepurakkal</strong><span>(2024–25)</span></div>
+  <div class="master-student"><strong>Haneena P J</strong><span>(2024–25)</span></div>
+  <div class="master-student"><strong>Kamal M J</strong><span>(2024–25)</span></div>
+  <div class="master-student"><strong>Rishada M</strong><span>(2024–25)</span></div>
+  <div class="master-student"><strong>Fehmi Basheer</strong><span>(2023–24)</span></div>
+  <div class="master-student"><strong>Lanciya</strong><span>(2023–24)</span></div>
+
+  <div class="master-student"><strong>Shasiya</strong><span>(2023–24)</span></div>
+  <div class="master-student"><strong>Ujjwal Kumar Ghosh</strong><span>(2023–24)</span></div>
+  <div class="master-student"><strong>Bharath</strong><span>(2022–23)</span></div>
+  <div class="master-student"><strong>Dhanaleskshmi S</strong><span>(2022–23)</span></div>
+  <div class="master-student"><strong>Itishree Priyadarshini Bhola</strong><span>(2022–23)</span></div>
+  <div class="master-student"><strong>Pavitra B</strong><span>(2022–23)</span></div>
+
+</div>
+
+### Interns
+- **Manjima (2025)** – *Summer Intern*  

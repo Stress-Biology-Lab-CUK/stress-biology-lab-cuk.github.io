@@ -1,0 +1,89 @@
+---
+title: "Join us!"
+---
+
+<div style="max-width:1000px; margin:auto;">
+
+<p style="text-align:center; font-size:17px; color:#444;">
+We are always looking for motivated and curious researchers to join SBL
+</p>
+
+</div>
+
+<hr style="margin:30px 0;">
+
+<!-- INTERNS -->
+<div style="
+padding:20px;
+border-left:5px solid #0b3d2e;
+background:#f9f9f9;
+border-radius:8px;
+margin-bottom:20px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+
+<h3 style="color:#0b3d2e;">Interns</h3>
+
+<p style="text-align:justify;">
+We are not accepting interns at the moment. If opportunities become available, updates will be posted here.
+</p>
+
+</div>
+
+<!-- PHD -->
+<div style="
+padding:20px;
+border-left:5px solid #007bff;
+background:#f4f8ff;
+border-radius:8px;
+margin-bottom:20px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+
+<h3 style="color:#0b3d2e;">PhD Positions</h3>
+
+<p style="text-align:justify;">
+Interested candidates are encouraged to contact the PI to discuss research interests before applying. Applicants must qualify through the official university selection process and hold valid national-level fellowship (CSIR/UGC/DBT/ICMR-JRF).
+</p>
+
+</div>
+
+<!-- POSTDOC -->
+<div style="
+padding:20px;
+border-left:5px solid #28a745;
+background:#f6fff8;
+border-radius:8px;
+margin-bottom:20px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+
+<h3 style="color:#0b3d2e;">Postdoctoral Fellows</h3>
+
+<p style="text-align:justify;">
+We welcome applications from highly motivated postdoctoral researchers with strong backgrounds in plant molecular biology, genomics, or related fields.
+</p>
+
+</div>
+
+<!-- CONTACT BOX -->
+<div style="
+margin-top:30px;
+padding:20px;
+border-radius:10px;
+background:#0b3d2e;
+color:white;
+text-align:center;
+">
+
+<p>
+Interested candidates can email with CV and research interests.
+</p>
+
+<p>
+📧 <strong>pramod@cukerala.ac.in</strong>
+</p>
+
+</div>
+
+</div>

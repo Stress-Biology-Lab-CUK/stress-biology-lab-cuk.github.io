@@ -1,0 +1,222 @@
+---
+title: "Principal Investigator"
+---
+
+<!-- TOP SECTION -->
+<div style="
+text-align:center;
+margin-bottom:20px;
+max-width:800px;
+margin-left:auto;
+margin-right:auto;
+">
+
+<img src="kandoth.jpg" style="
+width:100%;
+max-width:600px;
+height:auto;
+display:block;
+margin:auto;
+border-radius:10px;
+box-shadow:0 3px 10px rgba(0,0,0,0.2);
+">
+
+<!-- NAME BLOCK -->
+<div style="text-align:center; margin:0; line-height:1.2;">
+
+<div style="color:#0b3d2e; font-size:28px; font-weight:600;">
+Dr. Pramod K Kandoth
+</div>
+
+<div style="color:#555; font-size:20px; margin-top:2px;">
+Professor
+</div>
+
+<div style="color:#444; font-size:17px; margin-top:3px;">
+Department of Plant Science | School of Biological Sciences
+</div>
+
+<div style="color:#444; font-size:17px; margin-top:2px;">
+Central University of Kerala Kasaragod
+</div>
+
+</div>
+
+</div>
+
+<!-- DESCRIPTION -->
+<div style="
+max-width:900px;
+margin:0px auto 0 auto;
+text-align: justify;
+font-size:16px;
+line-height:1.7;
+color:#222;
+">
+
+Dr. Kandoth earned his Ph.D. from the Department of Biochemistry, Indian Institute of Science, Bangalore, and his M.Sc. from the Tamil Nadu Agricultural University, Coimbatore. His research interests are broadly in understanding plants’ interaction with their environment. His postdoctoral work at the University of South Carolina focused on the role of MAP kinases in the systemin-mediated defense signaling to insects. He demonstrated the essential role of these kinases of plants in the fight against insects. He continued his work on plant defense mechanisms at the University of Missouri to understand soybean resistance to soybean cyst nematode (SCN), the most economically important pathogen of soybean in the United States. His significant achievement in this work includes cloning and functional characterization of *Rhg4* and *Rhg1a* genes, the first known genes that majorly contribute to soybean resistance to SCN. In 2017, he moved to India with the prestigious Ramalingaswami Fellowship from the Department of Biotechnology Government of India and joined the **National Agri-food Biotechnology Institute (NABI), Mohali**. He handled two projects at NABI funded by DST-SERB and DBT. At NABI, he used a genome editing approach to develop nutritionally safe *Lathyrus*, a legume known for its climate-resilient attributes. He also works on understanding the role of endoplasmic reticulum pathways of plants in the biotic and abiotic stress responses. **He joined CUK as an associate professor in 2022**. He has excellent publications in **Nature, Proceedings of the National Academy of Sciences, Nature communications, and Plant Physiology**, to name a few.
+
+</div>
+
+<hr style="margin-top:25px;">
+
+<!-- TWO COLUMN SECTION -->
+<div style="display:flex; gap:30px; margin-top:20px; max-width:1000px; margin-left:auto; margin-right:auto;">
+
+<!-- LEFT BOX -->
+<div style="
+flex:1;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+background:#f9f9f9;
+">
+
+<h3 style="color:#0b3d2e;">Courses Teaching</h3>
+
+<ul>
+<li>BTY10-Plant Molecular Biology</li>
+<li>BTY23-Stress Physiology in Plants</li>
+<li>CB0I2-Genomics & Proteomics</li>
+</ul>
+
+</div>
+
+<!-- RIGHT BOX -->
+<div style="
+flex:1;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+background:#f9f9f9;
+">
+
+<h3 style="color:#0b3d2e;">Academic Identity</h3>
+
+<ul style="list-style:none; padding-left:0; line-height:1.8;">
+
+<li>🔗 <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=5jXp_48AAAAJ" target="_blank" style="text-decoration:none; color:#0b3d2e; font-weight:500;">
+Google Scholar
+</a></li>
+
+<li>🆔 <a href="https://orcid.org/0000-0001-6556-4497" target="_blank" style="text-decoration:none; color:#0b3d2e; font-weight:500;">
+ORCID
+</a></li>
+
+<li>📊 <a href="https://www.scopus.com/authid/detail.uri?authorId=35080557600" target="_blank" style="text-decoration:none; color:#0b3d2e; font-weight:500;">
+Scopus Profile
+</a></li>
+
+</ul>
+
+</div>
+
+</div> <!-- CLOSE FLEX ROW -->
+
+<!-- AWARDS -->
+<div style="
+margin-top:30px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+max-width:1000px;
+margin-left:auto;
+margin-right:auto;
+">
+
+<h3 style="color:#0b3d2e;">Awards & Honours</h3>
+
+<ul>
+<li>Ramalingaswami Fellowship (DBT, Govt. of India)</li>
+</ul>
+
+</div>
+
+<!-- PATENTS -->
+<div style="
+margin-top:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+max-width:1000px;
+margin-left:auto;
+margin-right:auto;
+">
+
+<h3 style="color:#0b3d2e;">Patents</h3>
+
+<ul>
+<li>U.S. Patent No. 9,371,541</li>
+</ul>
+
+</div>
+
+<hr style="
+margin:30px auto;
+max-width:1000px;
+border:0;
+height:1.5px;
+background:#ccc;
+">
+
+## Research Projects
+
+<div style="max-width:1000px; margin:auto;">
+
+<table style="
+width:100%;
+border-collapse:collapse;
+font-size:15px;
+">
+
+<thead style="background-color:#0b3d2e; color:white;">
+<tr style="text-align:center;">
+
+<th style="padding:10px;">Project Title</th>
+<th style="padding:10px;">Type</th>
+<th style="padding:10px;">Start</th>
+<th style="padding:10px;">End</th>
+<th style="padding:10px;">Funding Agency</th>
+
+</tr>
+</thead>
+
+<tbody>
+
+<tr style="background:#f9f9f9;">
+<td style="padding:10px;">
+Understanding ER stress-induced programmed cell death pathway and its role in stress responses in plants
+</td>
+<td style="text-align:center;">🟢 Ongoing</td>
+<td style="text-align:center;">2026</td>
+<td style="text-align:center;">2029</td>
+<td style="text-align:center;">ANRF-ARG</td>
+</tr>
+
+<tr>
+<td style="padding:10px;">
+Genomic approaches to reduce β-ODAP levels in Lathyrus spp
+</td>
+<td style="text-align:center;">Core Grant</td>
+<td style="text-align:center;">2020</td>
+<td style="text-align:center;">2023</td>
+<td style="text-align:center;">DST-SERB</td>
+</tr>
+
+<tr style="background:#f9f9f9;">
+<td style="padding:10px;">
+Deciphering endoplasmic reticulum stress response pathways in plants and its role in tolerance to belowground pathogens and abiotic stresses
+</td>
+<td style="text-align:center;">Research</td>
+<td style="text-align:center;">2017</td>
+<td style="text-align:center;">2023</td>
+<td style="text-align:center;">
+DBT, Govt. of India
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>

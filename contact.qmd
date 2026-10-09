@@ -1,0 +1,141 @@
+---
+title: "Get in Touch"
+---
+
+<style>
+.contact-card {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  border-left: 6px solid #2c7fb8;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+</style>
+
+<!-- TOP ROW -->
+<div style="
+max-width:1000px;
+margin:auto;
+display:flex;
+gap:25px;
+flex-wrap:wrap;
+align-items:stretch;
+">
+
+<!-- CONTACT CARD -->
+<div class="contact-card" style="flex:1; min-width:300px;">
+
+<div style="font-size:22px; font-weight:bold;">
+Dr. Pramod K Kandoth
+</div>
+
+<div style="margin-top:5px; color:#444;">
+Professor<br>
+Department of Plant Science | School of Biological Sciences<br>
+Central University of Kerala<br><br>
+
+Office: Room No. 114<br>
+Laboratory: Stress Biology Lab, Room No. 202, Godavari Block
+</div>
+
+<div style="margin-top:10px; line-height:1.8;">
+
+📧 <a href="mailto:pramod@cukerala.ac.in" style="text-decoration:none; color:#2c7fb8; font-weight:500;">
+pramod@cukerala.ac.in
+</a><br>
+
+📞 <span style="color:#2c7fb8; font-weight:500;">
+
+</span>
+
+</div>
+
+</div>
+
+<!-- ADDRESS -->
+<div style="
+flex:1;
+min-width:300px;
+padding:20px;
+border-left:6px solid #0b3d2e;
+background:#f9f9f9;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.08);
+">
+
+<h3 style="color:#0b3d2e;">📍 Address</h3>
+
+<p style="margin:5px 0; line-height:1.7;">
+Department of Plant Science<br>
+School of Biological Sciences<br>
+Godavari Block<br>
+Central University of Kerala<br>
+Tejaswini Hills, Periye<br>
+Central University of Kerala (P.O)<br>
+Kasaragod (DT), Kerala – 671325<br>
+India
+</p>
+
+</div>
+
+</div>
+
+<!-- SPACE BETWEEN ROWS -->
+<div style="height:30px;"></div>
+
+<!-- SECOND ROW -->
+<div style="
+max-width:1000px;
+margin:auto;
+display:flex;
+gap:25px;
+flex-wrap:wrap;
+align-items:stretch;
+">
+
+<!-- HOW TO REACH -->
+<div style="
+flex:1;
+min-width:300px;
+padding:20px;
+border-left:5px solid #2c7fb8;
+background:#f4f8ff;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.08);
+">
+
+<h3 style="color:#0b3d2e;">🧭 How to Reach</h3>
+
+<p><strong>By Air:</strong><br>
+Mangalore International Airport (90 km) and Kannur International Airport (120 km).
+</p>
+
+<p><strong>By Rail:</strong><br>
+Kanhangad Railway Station (15 km) and Kasaragod Railway Station (25 km).
+</p>
+
+<p><strong>By Road:</strong><br>
+Located on NH 66. Well-connected by bus.
+</p>
+
+</div>
+
+<!-- MAP -->
+<div style="
+flex:1;
+min-width:300px;
+border-radius:10px;
+overflow:hidden;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+">
+
+<iframe 
+src="https://www.google.com/maps?q=Central+University+of+Kerala+Tejaswini+Hills&output=embed"
+width="100%" 
+height="100%" 
+style="border:0; min-height:260px; filter: grayscale(20%) contrast(95%);">
+</iframe>
+
+</div>
+
+</div>

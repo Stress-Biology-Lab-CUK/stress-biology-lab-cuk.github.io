@@ -1,0 +1,149 @@
+---
+title: "Research"
+---
+
+<!-- INTRO SECTION -->
+<div style="
+max-width:900px;
+margin:auto;
+text-align:center;
+margin-bottom:30px;
+">
+
+<h2 style="color:#0b3d2e;">Overview</h2>
+
+<p style="text-align:justify; font-size:16px; line-height:1.7;">
+SBL focuses on understanding plant responses to environmental stress, with a particular emphasis on endoplasmic reticulum (ER) stress and their role in maintaining cellular homeostasis and survival under stress conditions.
+</p>
+
+</div>
+
+---
+
+<!-- RESEARCH CARDS -->
+
+<div style="
+max-width:1000px;
+margin:auto;
+display:flex;
+flex-direction:column;
+gap:30px;
+">
+
+<!-- CARD 1 -->
+<div class="research-card" style="
+display:flex;
+gap:25px;
+background:#f9f9f9;
+padding:20px;
+border-radius:12px;
+box-shadow:0 3px 12px rgba(0,0,0,0.1);
+transition:0.3s;
+align-items:center;
+flex-direction:row-reverse;
+">
+
+<div>
+<h3 style="color:#0b3d2e; margin-top:0;">1.&nbsp;ER Stress and Unfolded Protein Response (UPR)</h3>
+
+<p style="text-align:justify; margin:0;">
+We investigate how the accumulation of unfolded or misfolded proteins in the endoplasmic reticulum (ER) activates the unfolded protein responses (UPR). Our research focuses on ER stress signalling, transcriptional regulation, and adaptive mechanisms that restore protein homeostasis and promote plant survival under stress.
+</p>
+
+</div>
+
+</div>
+
+<!-- CARD 2 -->
+<div class="research-card" style="
+display:flex;
+gap:25px;
+background:#f9f9f9;
+padding:20px;
+border-radius:12px;
+box-shadow:0 3px 12px rgba(0,0,0,0.1);
+transition:0.3s;
+align-items:center;
+">
+
+<div>
+<h3 style="color:#0b3d2e; margin-top:0;">2.&nbsp;ER-Associated Degradation (ERAD)</h3>
+
+<p style="text-align:justify; margin:0;">
+We study ER-associated degradation (ERAD), a protein quality-control pathway that recognizes selected misfolded or aberrant proteins in the ER and targets them for degradation, primarily through the ubiquitin–proteasome system. Our research aims to understand how ERAD maintains cellular homeostasis and contributes to plant stress adaptation.
+</p>
+
+</div>
+
+</div>
+<!-- CARD 3 -->
+<div class="research-card" style="
+display:flex;
+gap:25px;
+background:#f9f9f9;
+padding:20px;
+border-radius:12px;
+box-shadow:0 3px 12px rgba(0,0,0,0.1);
+transition:0.3s;
+align-items:center;
+flex-direction:row-reverse;
+">
+
+<div>
+<h3 style="color:#0b3d2e; margin-top:0;">3.&nbsp;Regulated IRE1-Dependent Decay (RIDD)</h3>
+
+<p style="text-align:justify; margin:0;">
+We explore regulated IRE1-dependent decay (RIDD), an RNA degradation process mediated by the endoribonuclease activity of IRE1. This pathway can regulate ER protein-folding demand and stress-responsive gene expression. We aim to understand its potential role in ER stress regulation and plant adaptation.
+</p>
+
+</div>
+
+</div>
+<!-- CARD 4 -->
+<div class="research-card" style="
+display:flex;
+gap:25px;
+background:#f9f9f9;
+padding:20px;
+border-radius:12px;
+box-shadow:0 3px 12px rgba(0,0,0,0.1);
+transition:0.3s;
+align-items:center;
+flex-direction:row-reverse;
+">
+
+<div>
+<h3 style="color:#0b3d2e; margin-top:0;">4.&nbsp;ER Stress-Induced Programmed Cell Death (PCD)</h3>
+
+<p style="text-align:justify; margin:0;">
+We investigate how prolonged or severe ER stress shifts cellular responses from adaptation toward programmed cell death (PCD). Our research examines the molecular regulators, signaling pathways, and cellular events associated with ER stress-induced PCD, aiming to understand their roles in plant development, stress responses, and survival.
+</p>
+
+</div>
+
+</div>
+<!-- CARD 5 -->
+<div class="research-card" style="
+display:flex;
+gap:25px;
+background:#f9f9f9;
+padding:20px;
+border-radius:12px;
+box-shadow:0 3px 12px rgba(0,0,0,0.1);
+transition:0.3s;
+align-items:center;
+flex-direction:row-reverse;
+">
+
+<div>
+<h3 style="color:#0b3d2e; margin-top:0;">5.&nbsp;Plant Stress Physiology, Molecular Biology, and Functional Genomics</h3>
+
+<p style="text-align:justify; margin:0;">
+We investigate plant responses to biotic and abiotic stresses, including heat, salinity, and drought, using physiological, biochemical, molecular, and omics-based approaches. By integrating genomics, transcriptomics, proteomics, and genome-editing strategies, we identify stress-responsive genes and regulatory networks and investigate their roles in plant adaptation, cellular homeostasis, and resilience.
+</p>
+
+</div>
+
+</div>
+
+</div>

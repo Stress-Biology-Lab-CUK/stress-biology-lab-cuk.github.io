@@ -1,0 +1,114 @@
+---
+title: ""
+---
+
+::: {style="text-align:center; margin-top:20px;"}
+
+<img src="logo 2.png" 
+     style="width:150px; height:auto; display:block; margin:0 auto 5px auto;">
+
+<h1 style="color:red; margin-top:5px; margin-bottom:5px;">
+STRESS BIOLOGY LAB
+</h1>
+
+<p style="color:black; margin-top:5px;">
+Department of Plant Science | School of Biological Sciences<br>
+Central University of Kerala
+</p>
+
+:::
+
+![](banner.jpg){width="100%"}
+
+<hr style="margin-top:25px;">
+
+<!-- MAIN SECTION -->
+<div style="
+max-width:1100px;
+margin:auto;
+display:flex;
+gap:40px;
+flex-wrap:wrap;
+align-items:flex-start;
+">
+
+<!-- ABOUT -->
+<div style="flex:2; min-width:300px;">
+
+<h2 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e; display:inline-block;">
+About the Lab
+</h2>
+
+<p style="text-align:justify !important; text-justify:inter-word; line-height:1.8; font-size:16px; margin-top:15px;">
+SBL focuses on understanding plant physiology, stress responses, and the molecular mechanisms underlying plant growth, development, and adaptation to environmental challenges. Our research encompasses both biotic and abiotic stresses, with a major emphasis on endoplasmic reticulum (ER) stress, ER stress-induced programmed cell death (PCD), and ER-associated degradation (ERAD), which play crucial roles in maintaining cellular homeostasis and regulating plant stress responses. Tomato (<em>Solanum lycopersicum</em> L.) serves as a major model for investigating ER stress signaling and associated cell death pathways, complemented by research using <em>Arabidopsis thaliana</em>, <em>Nicotiana</em> species, and <em>Lathyrus</em> species.
+</p>
+
+<p style="text-align:justify !important; text-justify:inter-word; line-height:1.8; font-size:16px; margin-top:15px;">
+We integrate plant physiology, molecular biology, genomics, proteomics, and genome-editing approaches to investigate stress-responsive pathways and uncover the regulatory networks governing cellular homeostasis, stress signaling, and plant resilience. Our research aims to elucidate the molecular interplay between ER stress, protein quality control, and programmed cell death, while also exploring the mechanisms underlying plant responses to diverse environmental stresses and their potential applications in crop improvement and sustainable agriculture.
+</p>
+
+</div>
+
+<!-- NEWS -->
+<div style="flex:1; min-width:280px;">
+
+<h2 style="color:#0b3d2e; border-bottom:2px solid #0b3d2e; display:inline-block;">
+Latest News!
+</h2>
+
+<div style="
+height:300px;
+overflow:hidden;
+padding:20px;
+border-radius:12px;
+background:linear-gradient(135deg,#f7fbfa,#eef6f3);
+box-shadow:0 6px 18px rgba(0,0,0,0.08);
+margin-top:15px;
+">
+
+<div style="
+animation: scrollUp 15s linear infinite;
+">
+
+<ul style="padding-left:18px; line-height:1.9; font-size:15px;">
+
+<li>🎉 Welcome to SBL, Vivek! He has joined as a JRF</li>
+<li>🎉 Congrats Gayathri on becoming SRF!</li>
+<li>🎉 We welcome Arun to SBL as a PhD student</li>
+<li>🎉 We welcome Sruthi to SBL as a PhD student</li>
+<li>👋 Dr. Kandoth has been promoted to Professor. Congratulations, Dr. Kandoth!</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ANIMATION -->
+<style>
+@keyframes scrollUp {
+  0%   { transform: translateY(100%); }
+  100% { transform: translateY(-100%); }
+}
+</style>
+
+<hr style="margin-top:25px;">
+
+<!-- FUNDING -->
+<div style="text-align:center; margin-bottom:40px;">
+
+<h2 style="color:#0b3d2e;">Funding</h2>
+
+<img src="funding.png" style="
+width:75%;
+max-width:650px;
+margin-top:15px;
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+">
+
+</div>

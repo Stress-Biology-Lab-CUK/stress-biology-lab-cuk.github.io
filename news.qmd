@@ -1,0 +1,58 @@
+
+<div style="max-width:1000px; margin:auto;">
+
+<h2 style="text-align:center; color:#0b3d2e; margin-bottom:30px;">
+Latest Updates
+</h2>
+
+<!-- NEWS CARD STYLE -->
+<div style="display:flex; flex-direction:column; gap:20px;">
+
+<!-- NEWS ITEM -->
+<div style="
+padding:18px;
+border-left:5px solid #0b3d2e;
+background:#f9f9f9;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+<strong style="color:#0b3d2e;">September 2026</strong><br>
+Vivek joind SBL as a JRF. Welcom Vivek!</strong>
+</div>
+
+<div style="
+padding:18px;
+border-left:5px solid #0b3d2e;
+background:#f9f9f9;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+<strong style="color:#0b3d2e;">August 2026</strong><br>
+Gayathri has been promoted to Senior Research Fellow (SRF)
+</div>
+
+<div style="
+padding:18px;
+border-left:5px solid #0b3d2e;
+background:#f9f9f9;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+<strong style="color:#0b3d2e;">July 2026</strong><br>
+Arun joind SBL as a PhD student. Welcom Arun!
+</div>
+
+<div style="
+padding:18px;
+border-left:5px solid #0b3d2e;
+background:#f9f9f9;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+">
+<strong style="color:#0b3d2e;">January 2026</strong><br>
+Sruthi joind SBL as a PhD student. Welcom Sruthi!
+</div>
+
+</div>
+
+</div>

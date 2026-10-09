@@ -1,0 +1,102 @@
+/* Navbar background */
+.navbar {
+  background-color: #0b3d2e !important;
+  padding: 12px 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Navbar text */
+.navbar a {
+  color: white !important;
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+/* Hover */
+.navbar a:hover {
+  color: #a8e6cf !important;
+}
+
+/* Active tab */
+.navbar .active {
+  border-bottom: 2px solid #a8e6cf;
+}
+
+/* Logo size */
+.navbar-brand img {
+  max-height: 50px;
+}
+
+/* Lab title */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 18px;
+  color: white !important;
+}
+
+/* Force bright white icon */
+.navbar svg {
+  fill: white !important;
+  stroke: white !important;
+}
+
+.navbar svg:hover {
+  fill: #a8e6cf !important;
+}
+
+/* Remove unwanted line under headings */
+h2 {
+  border-bottom: none !important;
+}
+
+a:hover {
+  color: #145a32 !important;
+  text-decoration: underline;
+}
+
+div[style*="box-shadow"]:hover {
+  transform: translateY(-3px);
+  transition: 0.3s ease;
+}
+
+table tr:hover {
+  background-color: #eef7f3;
+  transition: 0.2s;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.6;
+  color: #222;
+}
+
+/* TEAM MEMBER CARD HOVER EFFECT */
+.member-card {
+  transition: all 0.3s ease;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.member-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  background-color: #f8fbfa;
+}
+
+.member-card img {
+  transition: transform 0.3s ease;
+}
+
+.member-card:hover img {
+  transform: scale(1.05);
+}
+
+main {
+  padding-bottom: 40px;
+}
+
+.research-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
